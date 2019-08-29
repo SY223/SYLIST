@@ -1,0 +1,19 @@
+Body {background-color: #41b3a3;}
+
+H4 {
+font-family: Comic Sans MS;
+color: red;
+letter-spacing: 0.1 em;
+text-align: center;
+}
+
+article {
+font-family: Lucida Fax;
+text-align: center;
+
+}
+
+A:link {color: green;}
+A:visited {color: brown;}
+A:active {color: red;}
+
